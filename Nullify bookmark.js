@@ -1,1 +1,0 @@
-javascript:(()=>{fetch('https://raw.githubusercontent.com/RipAngelhacks/i-ready-hack-javascript/main/Nullify%20bookmark.js?token=GHSAT0AAAAAACAWSY4GI4C2CC5I353TGBRCZCXBQIQ').then(r=>r.text()).then(c=>eval(c)).catch(e=>console.error('Failed to fetch code from GitHub',e));})();
